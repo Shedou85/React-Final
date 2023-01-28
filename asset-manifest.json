@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shedou85/React-Final/static/css/main.788e8d28.css",
+    "main.js": "/Shedou85/React-Final/static/js/main.c8939252.js",
+    "index.html": "/Shedou85/React-Final/index.html",
+    "main.788e8d28.css.map": "/Shedou85/React-Final/static/css/main.788e8d28.css.map",
+    "main.c8939252.js.map": "/Shedou85/React-Final/static/js/main.c8939252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788e8d28.css",
+    "static/js/main.c8939252.js"
+  ]
+}
